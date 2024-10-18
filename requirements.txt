@@ -1,0 +1,9 @@
+opencv-python
+numpy
+torch
+torchvision
+scikit-image
+h5py
+
+
+
